@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: summarify
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/gal-actic/ML-Projects/tree/main/Summarify
+Author: gal-actic
+Project-URL: Bug Tracker, https://github.com/gal-actic/ML-Projects/tree/main/Summarify/issues
+
+This is a NLP project
