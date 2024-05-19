@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "ML-Projects/tree/main/Summarify"
 AUTHOR_USER_NAME = "gal-actic"
-SRC_REPO = "summarify"
+SRC_REPO = "textSummarizer"
 #AUTHOR_EMAIL = "@gmail.com"
 
 
