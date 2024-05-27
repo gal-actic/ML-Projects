@@ -1,1 +1,42 @@
 [2024-05-18 16:25:48,063: INFO: main: welcome to our custom logging]
+[2024-05-23 13:09:22,630: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-23 13:09:22,633: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-23 13:10:25,267: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-23 13:10:25,269: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-23 13:10:59,500: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-23 13:10:59,503: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-23 13:12:41,061: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-23 13:12:41,063: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-23 13:12:46,424: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-23 13:12:46,425: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-23 17:56:17,832: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-23 17:56:17,834: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-23 17:56:17,836: INFO: common: created directory at: artifacts]
+[2024-05-23 17:56:17,836: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-23 17:56:21,112: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 39DC:22F576:368420:45B07C:664F35E9
+Accept-Ranges: bytes
+Date: Thu, 23 May 2024 12:26:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21748-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716467178.397630,VS0,VE721
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: edec064c295b6528f5244a1ea02c7a5e60e4cbf9
+Expires: Thu, 23 May 2024 12:31:19 GMT
+Source-Age: 0
+
+]
