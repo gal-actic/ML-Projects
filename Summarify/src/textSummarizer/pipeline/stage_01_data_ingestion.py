@@ -4,7 +4,7 @@ from textSummarizer.logging import logger
 
 
 class DataIngestionTrainingPipeline:
-    def __init__(self) -> None:
+    def __init__(self):
         pass  # we dont need any construction so we will pass
 
     def main(self):
