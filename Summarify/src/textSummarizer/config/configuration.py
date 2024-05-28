@@ -3,8 +3,7 @@ from textSummarizer.utils.common import read_yaml, create_directories
 from textSummarizer.entity import (DataIngestionConfig,
                                    DataValidationConfig,
                                    DataTransformationConfig,
-                                   ModelTrainerConfig,
-                                   ModelEvaluationConfig) # bracket for writing more no of entities using comma
+                                   ModelTrainerConfig) # bracket for writing more no of entities using comma
 
 
 class ConfigurationManager:
@@ -95,7 +94,7 @@ class ConfigurationManager:
 
 
 
-   def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+  # def get_model_evaluation_config(self) -> ModelEvaluationConfig:
         config = self.config.model_evaluation
 
         create_directories([config.root_dir])

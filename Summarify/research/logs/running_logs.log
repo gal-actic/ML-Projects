@@ -1,0 +1,5 @@
+[2024-05-28 22:09:45,063: INFO: config: PyTorch version 2.3.0 available.]
+[2024-05-28 22:21:49,706: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-28 22:21:49,721: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-28 22:21:49,725: INFO: common: created directory at: artifacts]
+[2024-05-28 22:21:49,729: INFO: common: created directory at: artifacts/data_transformation]
